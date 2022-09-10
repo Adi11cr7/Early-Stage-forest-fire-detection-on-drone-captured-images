@@ -1,2 +1,4 @@
 # Early-Stage-forest-fire-detection-on-drone-captured-images-using-ensemble-learning
-Using computer vision we can monitor large forest areas for the early stage detection of forest fires.
+Dataset: FLAME dataset
+Models: YOLOv5s, YOLOv5s-transformers, YOLOv5l
+![Alt text](./Screenshot (35).png?raw=true "Optional Title")
